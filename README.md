@@ -1,4 +1,4 @@
-# portfolio_wordpress
+## portfolio_wordpress
 
 - Installation du wordpress sur: https://wordpress.org/download/
 
@@ -16,6 +16,6 @@
 
 - Edition du Demo avec ELEMENTOR PRO.
 
-## - Creation des utilisateurs.
+- Creation des utilisateurs.
 
-## - Sauvegarder.
+- Sauvegarder.
