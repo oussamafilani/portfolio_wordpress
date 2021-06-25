@@ -1,31 +1,21 @@
 # portfolio_wordpress
 
-Consolider la recherche déjà effectué à propos du CMS dans un document.
+## - Installation du wordpress sur: https://wordpress.org/download/
 
-Apporter des modifications au contenu d'un site fournie en utilisant un thème qui a la même structure et en utilisant des plugins de création de contenu.
+## - Création d'une base de donnée MYSQL nommé: portfolio
 
-les instruction à suivre :
+## - Installation de wordpress: localhost/Sbaportfolioamel
 
-Installation de Wordpress après le téléchargement de son code source.
+## - Configuration: Surname: admin, Password: ae6hD#dlCW$2@Fo0Ot, status : Administateur
 
-Création de la base de données qui sera utilisé par WordPress pour création de ses tables.
+## - Type du Projet: Portfolio avec un CV, une page Contact et une page d'accueil.
 
-Créer des utilisateurs avec différent rôles.
+## - Téléchargement du plugin ELEMENTOR PRO
 
-Télécharger un thème de votre choix et importer un site démo puis adapter son contenu à votre contexte (2 pages min)
+## - Importer un Theme qui s'appel ARRIVAL, demo: ARRIVAL ME.
 
-​
+## - Edition du Demo avec ELEMENTOR PRO.
 
-ex:
+## - Creation des utilisateurs.
 
-Télécharger et installer le thème "Neve"
-
-Importer le site démo "Freelancer" depuis le volet "Neve Option"
-
-Adapter le contenu à votre profil
-
-Ajouter une page "CV" contenant votre cv
-
-​
-
-Vous pouvez ajouter les extensions que vous jugez nécessaires pour faciliter votre travail
+## - Sauvegarder.
