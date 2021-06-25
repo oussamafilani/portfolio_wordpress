@@ -1,20 +1,20 @@
 # portfolio_wordpress
 
-## - Installation du wordpress sur: https://wordpress.org/download/
+- Installation du wordpress sur: https://wordpress.org/download/
 
-## - Création d'une base de donnée MYSQL nommé: portfolio
+- Création d'une base de donnée MYSQL nommé: portfolio
 
-## - Installation de wordpress: localhost/Sbaportfolioamel
+- Installation de wordpress: localhost/Sbaportfolioamel
 
-## - Configuration: Surname: admin, Password: ae6hD#dlCW$2@Fo0Ot, status : Administateur
+- Configuration: Surname: admin, Password: ae6hD#dlCW$2@Fo0Ot, status : Administateur
 
-## - Type du Projet: Portfolio avec un CV, une page Contact et une page d'accueil.
+- Type du Projet: Portfolio avec un CV, une page Contact et une page d'accueil.
 
-## - Téléchargement du plugin ELEMENTOR PRO
+- Téléchargement du plugin ELEMENTOR PRO
 
-## - Importer un Theme qui s'appel ARRIVAL, demo: ARRIVAL ME.
+- Importer un Theme qui s'appel ARRIVAL, demo: ARRIVAL ME.
 
-## - Edition du Demo avec ELEMENTOR PRO.
+- Edition du Demo avec ELEMENTOR PRO.
 
 ## - Creation des utilisateurs.
 
