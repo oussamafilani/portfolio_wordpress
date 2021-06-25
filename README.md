@@ -4,9 +4,9 @@
 
 - Création d'une base de donnée MYSQL nommé: portfolio
 
-- Installation de wordpress: localhost/Sbaportfolioamel
+- Installation de wordpress: localhost/portfolio
 
-- Configuration: Surname: admin, Password: ae6hD#dlCW$2@Fo0Ot, status : Administateur
+- Configuration: username: admin, Password: ae6hD#dlCW$2@Fo0Ot, status : Administateur
 
 - Type du Projet: Portfolio avec un CV, une page Contact et une page d'accueil.
 
